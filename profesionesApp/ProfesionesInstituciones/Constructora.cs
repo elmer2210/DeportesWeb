@@ -1,5 +1,6 @@
+using profesionesApp.ProfesionesImplementaciones.ArquitectoImplementacion;
 using profesionesApp.ProfecionesImplementaciones.ArquitectoImplementacion;
-using profesionesApp.ProfecionesInterfaces;
+using profesionesApp.ProfesionesInterfaces;
 
 namespace profesionesApp.ProfesionesInstituciones
 {

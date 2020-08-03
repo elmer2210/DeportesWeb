@@ -1,5 +1,6 @@
 using profesionesApp.ProfecionesImplementaciones.EstuidantesImplemetacion;
-using profesionesApp.ProfecionesInterfaces;
+using profesionesApp.ProfesionesImplementaciones.EstuidantesImplemetacion;
+using profesionesApp.ProfesionesInterfaces;
 
 namespace profesionesApp.ProfesionesInstituciones
 {
